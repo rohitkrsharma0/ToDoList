@@ -40,7 +40,6 @@ main {
 h2 {
     padding: 20px;
 }
-
 section:nth-child(even) {
     background-color: rgb(241, 241, 241);
 }
