@@ -45,7 +45,7 @@ section:nth-child(even) {
 }
 
 section {
-    min-height: 50vh;
+    min-height: 325px;
 }
 
 video {
